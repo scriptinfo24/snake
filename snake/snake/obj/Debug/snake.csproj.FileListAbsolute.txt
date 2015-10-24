@@ -1,0 +1,6 @@
+D:\Музей\2015\Проекты\Программирование\git\snake.git\snake\snake\bin\Debug\snake.exe.config
+D:\Музей\2015\Проекты\Программирование\git\snake.git\snake\snake\obj\Debug\snake.csprojResolveAssemblyReference.cache
+D:\Музей\2015\Проекты\Программирование\git\snake.git\snake\snake\bin\Debug\snake.exe
+D:\Музей\2015\Проекты\Программирование\git\snake.git\snake\snake\bin\Debug\snake.pdb
+D:\Музей\2015\Проекты\Программирование\git\snake.git\snake\snake\obj\Debug\snake.exe
+D:\Музей\2015\Проекты\Программирование\git\snake.git\snake\snake\obj\Debug\snake.pdb
